@@ -15,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
   
-[![My Skills](https://skillicons.dev/icons?i=py,django,linux,docker,postgres,nginx,git,githubactions)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,linux,docker,aws,postgres,nginx,git,githubactions)](https://skillicons.dev)
 
 <details>	
   <summary><b>⚡ Github Stats</b></summary>
